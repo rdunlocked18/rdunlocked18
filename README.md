@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdunlocked18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently mostly working on ... Android , iOS
+- 🔭 I’m mostly working on ... Android , iOS
 - 🌱 I’m currently learning ... Swift , Obj C , AOSP
 - 👯 I’m looking to collaborate on ... Custom ROMS
 - 🤔 I’m looking for help with ... Hooks , App Profiles
