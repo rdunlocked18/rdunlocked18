@@ -19,7 +19,8 @@
 - 🤔 I’m looking for help with ... Hooks , App Profiles
 - 💬 Ask me about ... Tech and life i am always there
 - 📫 How to reach me: ... rohitdaftari3@gmail.com
-- ❤ Love : Dark Mode , Bootloaders , Jailbreak , Tweeks , Roms , Kernels , Trees :)
+- ❤  Love : Dark Mode , Bootloaders , Jailbreak , Tweeks , Roms , Kernels , Trees :)
+- 🥱 Not Using this account much NowADays.
 
 
 # <h3 align="center"> Other Accounts 📫 </h3>
