@@ -20,7 +20,7 @@
 - 💬 Ask me about ... Tech and life i am always there
 - 📫 How to reach me: ... rohitdaftari3@gmail.com
 - ❤  Love : Dark Mode , Bootloaders , Jailbreak , Tweeks , Roms , Kernels , Trees :)
-- 🥱 Not Using this account much NowADays.
+- 🥱 If u find less commits, no worries probably I might be working on some Stealth 🥷 Projects or for a company.
 
 
 # <h3 align="center"> Other Accounts 📫 </h3>
