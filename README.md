@@ -28,3 +28,4 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-daftari-792a32168/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/rohii.tdaftari"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdunlocked18&" alt="rdunlocked18" /></p>
