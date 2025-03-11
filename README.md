@@ -22,10 +22,11 @@
 - ❤  Love : Dark Mode , Bootloaders , Jailbreak , Tweeks , Roms , Kernels , Trees :)
 - 🥱 If u find less commits, no worries probably I might be working on some Stealth 🥷 Projects or for a company.
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdunlocked18" alt="rdunlocked18" /></p>
 
 # <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-daftari-792a32168/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/rohii.tdaftari"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdunlocked18&" alt="rdunlocked18" /></p>
+
